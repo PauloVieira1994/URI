@@ -1,0 +1,5 @@
+A = int(input (""))
+B = int(input (""))
+C = float(input(""))
+print ("NUMBER = %d" % A)
+print ("SALARY = $ {:.2F}".format(B*C))
